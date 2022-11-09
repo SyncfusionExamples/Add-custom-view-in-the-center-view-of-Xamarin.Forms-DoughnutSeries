@@ -1,8 +1,6 @@
 # How to add a custom view to a hole in the Xamarin.Forms doughnut chart (SfChart)?
 
-We can add any kind of view to the center of doughnut series using CenterView property. The following code explains how to add image view to the center of doughnut. 
-
-This KB article explains how to add the desired view to a hole in the [doughnut series](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfChart.XForms.DoughnutSeries.html) of [Xamarin.Forms chart](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfChart.XForms.SfChart.html) by using the [CenterView property](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfChart.XForms.DoughnutSeries.html#Syncfusion_SfChart_XForms_DoughnutSeries_CenterView) that has been supported by the [Syncfusion.Xamarin.SfChart](https://www.nuget.org/packages/Syncfusion.Xamarin.SfChart/) version of [16.4.0.41](https://help.syncfusion.com/xamarin/release-notes/v16.2.0.41?type=all#sfchart-features).
+This example explains how to add the desired view to a hole in the [doughnut series](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfChart.XForms.DoughnutSeries.html) of [Xamarin.Forms chart](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfChart.XForms.SfChart.html) by using the [CenterView property](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfChart.XForms.DoughnutSeries.html#Syncfusion_SfChart_XForms_DoughnutSeries_CenterView) that has been supported by the [Syncfusion.Xamarin.SfChart](https://www.nuget.org/packages/Syncfusion.Xamarin.SfChart/) version of [16.4.0.41](https://help.syncfusion.com/xamarin/release-notes/v16.2.0.41?type=all#sfchart-features).
 
 Please refer to the following code sample to add the Image view as the center of the doughnut series.
 
